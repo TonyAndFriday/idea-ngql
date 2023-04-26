@@ -6,6 +6,14 @@
 
 - Highlighting all Keywords, Functions of a given `.ngql` file
 
+## Quick Start
+
+### Set Gradle JVM
+![set_gradle_jvm](https://github.com/TonyAndFriday/idea-ngql/blob/main/static/img_1.png)
+
+### run
+![run](https://github.com/TonyAndFriday/idea-ngql/blob/main/static/img_2.png)
+
 ## Reference
 
 - https://docs.nebula-graph.com.cn/2.0/3.ngql-guide
