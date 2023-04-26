@@ -26,6 +26,8 @@ out/
 .settings
 .springBeans
 .sts4-cache
+idea-flex.skeleton
+jflex-1.9.1.jar
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
