@@ -16,6 +16,7 @@
 
 ## Reference
 
-- https://docs.nebula-graph.com.cn/2.0/3.ngql-guide
+- https://docs.nebula-graph.com.cn/3.4.1/
+- https://plugins.jetbrains.com/docs/intellij/custom-language-support-tutorial.html
 - https://github.com/vesoft-inc/nebula-graph/blob/master/src/parser/scanner.lex
 - https://github.com/wey-gu/vscode-ngql
