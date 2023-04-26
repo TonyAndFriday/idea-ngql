@@ -1,6 +1,6 @@
 # IDEA nGQL Syntax Highlight
 
-![idea-ngql-demo]
+![idea-ngql-demo](https://github.com/TonyAndFriday/idea-ngql/blob/main/static/img.png)
 
 ## Features
 
