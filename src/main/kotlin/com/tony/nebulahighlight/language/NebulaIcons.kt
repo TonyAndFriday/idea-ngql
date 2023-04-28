@@ -11,6 +11,6 @@ import com.intellij.openapi.util.IconLoader
  */
 class NebulaIcons {
     companion object {
-        val icon = IconLoader.getIcon("/icons/jar-gray.png", NebulaIcons::class.java)
+        val icon = IconLoader.getIcon("/icons/logo.svg", NebulaIcons::class.java)
     }
 }

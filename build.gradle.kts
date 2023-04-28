@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "com.tony"
-version = "1.0-SNAPSHOT"
+version = "1.1-SNAPSHOT"
 
 sourceSets["main"].java.srcDirs("src/main/gen")
 
