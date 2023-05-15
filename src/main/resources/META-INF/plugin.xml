@@ -15,8 +15,12 @@
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description>
         <![CDATA[
+            <h4>this is nebula graph ql highlight plugin. Highlighting all Keywords, Functions of a given .ngql file.</h4>
             <tag>nGQL highlight</tag>
-            <h4>this is nebula graph ql highlight plugin</h4>
+            <h3>how to use:</h3>
+              <ul>
+                    <li>Settings->Plugins->Marketplace->Install</li>
+              </ul>
             <h3>中文：</h3>
               <ul>
                     <li>支持nGQL语句高亮展示.</li>
